@@ -28,7 +28,7 @@ pip install -r requirements.txt
 python financial-agent.py
 ```
 
-3. Run agents in playground
+5. Run agents in playground
 
 ```bash
 python playground.py
