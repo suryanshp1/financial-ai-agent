@@ -21,3 +21,15 @@ conda activate ./venv
 ```bash
 pip install -r requirements.txt
 ```
+
+4. Run agents
+
+```bash
+python financial-agent.py
+```
+
+3. Run agents in playground
+
+```bash
+python playground.py
+```
